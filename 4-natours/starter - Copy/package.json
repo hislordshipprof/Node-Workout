@@ -1,0 +1,15 @@
+{
+  "name": "naturo",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
